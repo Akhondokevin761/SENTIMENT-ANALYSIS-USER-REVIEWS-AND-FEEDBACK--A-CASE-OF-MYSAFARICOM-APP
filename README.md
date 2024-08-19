@@ -11,6 +11,7 @@
 
 -[Model Deployment](#Model-Deployment)
 
+-[Contribution](#Contribution)
 
 
 
@@ -55,4 +56,11 @@ Two models were trained: Logistic Regression and Support Vector Machine.
 
 The trained models were then applied to the test dataset. The logistic Regression achieved an accuracy of 92.39% while the Support Vector Machine 72.92%.
 
-For information on training and testing the model, check the Trained Model jupyter notebook.
+For information on training and testing the model, check the Trained Model Jupiter notebook in Train and Test Notebook Folder.
+
+
+## Model Deployment
+
+The model with the highest accuracy was picked: Logistic Regression. This was then applied on the MySafaricom App user reviews scrapped from Google Playstore. The final result was saved in an Excel CSV file named Safaricomreviewsfinal found in the Data Folder.
+
+For further information on model deployment, check the Deployment notebook folder.
