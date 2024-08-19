@@ -7,6 +7,10 @@
 
 -[Data](#Data)
 
+-[Model Training and Testing](#ModelTraining&Testing)
+
+-[Model Deployment](#ModelDeployment)
+
 
 
 
@@ -43,3 +47,6 @@ Python 3 is used. Ensure the following libraries are downloaded and loaded:
 The test and train data is User Review found in the Data folder. This data contains 64295 observations and 5 variables which makes it perfect for train and test of a machine-learning model. The data is Preprocessed in Excel by deleting 3 variables to remain with Translated_Review and Sentiment. The Tranlated_Review is renamed to review and the Sentiment to review. All these steps are done in MS Excel.
 
 The model is applied on MySafaricom App customer review data, which is scrapped from Google Playstore.
+
+
+## Model Training and Testing
