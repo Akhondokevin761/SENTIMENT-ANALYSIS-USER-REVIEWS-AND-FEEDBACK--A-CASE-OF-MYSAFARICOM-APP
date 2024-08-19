@@ -7,9 +7,9 @@
 
 -[Data](#Data)
 
--[Model Training and Testing](#ModelTrainingTesting)
+-[Model Training and Testing](#Model-Training-and-Testing)
 
--[Model Deployment](#ModelDeployment)
+-[Model Deployment](#Model-Deployment)
 
 
 
