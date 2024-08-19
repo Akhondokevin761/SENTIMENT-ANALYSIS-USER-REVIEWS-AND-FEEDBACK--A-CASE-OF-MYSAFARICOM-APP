@@ -13,6 +13,7 @@
 
 -[Contribution](#Contribution)
 
+-[Contact](#Contact)
 
 
 
@@ -64,3 +65,12 @@ For information on training and testing the model, check the Trained Model Jupit
 The model with the highest accuracy was picked: Logistic Regression. This was then applied on the MySafaricom App user reviews scrapped from Google Playstore. The final result was saved in an Excel CSV file named Safaricomreviewsfinal found in the Data Folder.
 
 For further information on model deployment, check the Deployment notebook folder.
+
+
+## Contribution
+
+I welcome contributions to the Smart Chat App. If you would like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+
+Kindly reach me at kevinakhondo5@gmail.com and +254702910301
