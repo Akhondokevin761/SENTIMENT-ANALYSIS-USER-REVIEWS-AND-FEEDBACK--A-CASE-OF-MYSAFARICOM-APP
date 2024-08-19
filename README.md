@@ -50,3 +50,9 @@ The model is applied on MySafaricom App customer review data, which is scrapped 
 
 
 ## Model Training and Testing
+
+Two models were trained: Logistic Regression and Support Vector Machine.
+
+The trained models were then applied to the test dataset. The logistic Regression achieved an accuracy of 92.39% while the Support Vector Machine 72.92%.
+
+For information on training and testing the model, check the Trained Model jupyter notebook.
